@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dist-exiftool": "^10.53.0",
+    "fs-extra": "^5.0.0",
+    "moment": "^2.20.1",
+    "node-exiftool": "^2.3.0"
+  }
+}
